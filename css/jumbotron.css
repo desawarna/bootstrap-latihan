@@ -38,8 +38,8 @@ body {
   border-color: #ccc;
 }
 .card {
-  margin: 2px;
-  max-width: 30%;
+  box-shadow: 1px 2px 2px #333;
+  margin: 1%;
 }
 .card img {
   max-width: 307px;
@@ -53,4 +53,7 @@ main img {
 }
 .bg-light {
   background-color: #c2c2c2 !important;
+}
+footer {
+  font-size: 11px;
 }
